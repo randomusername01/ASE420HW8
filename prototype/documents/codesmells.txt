@@ -1,0 +1,21 @@
+Complex Conditional Statements: Certain functions contained complex nested conditional statements that were hard to follow. We refactored these functions to simplify the logic.
+
+Unclear Function Names: Functions in the commands.py file had confusing names for their function so they were renamed.
+
+Duplicate Code in formatTime.py: Extracted duplicate code into classes
+
+Use of flag variable: Replaced flag with a variable (time_format_24hr) that has a meaningful name
+
+If-else block covering the entire main function: Refactored by applying the command design pattern and moving the logic into it.
+
+Violation of SRP
+
+Magic Numbers
+
+Bloated Function
+
+Excessive Comments
+
+Inconsistant names
+
+Global State

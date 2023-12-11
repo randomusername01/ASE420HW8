@@ -1,0 +1,12 @@
+Design Pattern: Singleton
+File: database.py
+To prevent multiple databases from being created
+
+Design Pattern: Command
+File: commands.py
+Adds a command structure to handle all commands.
+
+Design Pattern: Factory
+File: commands.py
+Lines: 11-31
+Acts as a factory reacting to user input.
